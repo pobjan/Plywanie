@@ -1,0 +1,23 @@
+<DOCKTYPE html>
+<html>
+
+<head>
+<meta charset="uft-8" />
+<title>heppyswimm.com</title>
+<link rel="stylesheet"href="strona internetowa style.css" type="text/css" />
+</head>
+
+<body class="body6">
+<center> <span class="span_6"><h1><b><u><span style="background: purple;">CIEKAWOSTKI</span></u></b></h1></span></center><br>
+<span class="span_6"><h2><em><p align="left"><b><span class="span_6a"> 1.Pierwsze oficjalne zawody pływackie odbyły się w 35 r.p.n.e.</b></p></em></h2></span><br>
+<span class="span_6"><h2><em><p align="right"><b><span class="span_6b"> 2.Pływanie jest dyscypliną olimpijską od 1896 roku.</b></p></h2></span><br>
+<span class="span_6"><h2><em><p align="left"><b><span class="span_6c"> 3.Temperatura wody w basenie wynosi od 25°C do 28°C.</b></p></h2></span><br>
+<span class="span_6"><h2><em><p align="right"><b><span class="span_6a"> 4.W Warszawie w 1929 roku rozegrano pierwsze mistrzostwa Polski.</b></p></h2></span><br>
+<span class="span_6"><h2><em><p align="left"><b><span class="span_6b"> 5.Istnienie 6 podstawowych styli pływackich: motylkowy, grzbietowy, zmienny, dowolny, klasyczny i kraul.</b></p></h2></span><br>
+<span class="span_6"><h2><em><p align="right"><b><span class="span_6c"> 6.W 1796 roku w Szwecji powstał pierwszy klub pływacki który funkcjonuje do dzisiaj.</b></p></h2></span><br>
+<span class="span_6"><h2><em><p align="left"><b><span class="span_6a"> 7.Na Igrzyskach Olimpijskich w Atenach w 2014 roku zawody pływackie rozegrane zostały na otwartym stadionie, ponieważ organizatorzy nie  zdążyli ukończyć hali.</b></p></h2></span><br>
+<span class="span_6"><h2><em><p align="right"><b><span class="span_6b"> 8.Amerykanin Michael Phelps na Igrzyskach Olimpijskich w Atenach 2004 i w pekinie 2008 zdobył łącznie 14 złotych medali stając się olimpijczykiem wszech czasów.</b></p></h2></span><br>
+<span class="span_6"><h2><em><p align="left"><b><span class="span_6c"> 9.Michael Phelps na Igrzyskach Olimpisckich w Pekinie zdobył 8 złotych medali i ustanowił 7 redordów świata.<b></p></h2></span><br>
+</body>
+
+</html>

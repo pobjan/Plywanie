@@ -1,0 +1,31 @@
+<DOCKTYPE html>
+<html>
+
+<head>
+<meta charset="uft-8" />
+<title>heppyswimm.com</title>
+</head>
+
+<body style="background-color: silver;">
+<div style="border:0px solid black;width:200px;;float:left;background:blue;min-height:650px;">
+     <h2><span style="color: white;">MENU</span></h2>
+     <a href="dodatkowe strony/strona internetowa 2.html"> <span style="color: white;">Style pływackie</span></a><br>
+     <a href="dodatkowe strony/strona internetowa 3.html"> <span style="color: white;">Aspekty zdrowotne</span></a><br>
+     <a href="dodatkowe strony/strona internetowa 4.html"> <span style="color: white;">Pływanie, a sport</span></a><br>
+     <a href="dodatkowe strony/strona internetowa 5.html"> <span style="color: white;">Kurs pływania- jaki wybrać?</span></a><br>
+     <a href="dodatkowe strony/strona internetowa 6.html"> <span style="color: white;">Ciekawostki</span></a><br>
+   </div>
+<div style="border:0px solid black;width:0px;float:left;background:#fff;min-height:650px"></div>
+<div style="border:0px solid black;width:20px;;float:left;background:silver;min-height:650px;"></div>
+<div style="border:0px solid black;width:0px;float:left;background:#fff;min-height:650px"></div>
+
+<p><br><h2><b><i><span style="color: blue;">Witaj!</span></i></b></h2><br> Na mojej stronie dowiesz się wszystkiego na temat pływania. Jak wiadomo pływanie to nietylko dyscyplina sportowa, lecz czynność, 
+która daje dużo przjemności. Pływanie niesie ze sobą wiele pozytywnych skutków, takich jak poprawa ogólna kondycji organizmu oraz poprawa stanu psychicznego. 
+Wydawało by się, że zwykle „pluskanie w wodzie” nie rzutuje na nasz organizm... jest to jednak zbędne myślenie.</p>
+<center><img src="dodatkowe strony/zdjęcie logo.jpg" width="520" height="144"></img></center>
+<p>Na mojej stronie zamieściłem najważniejsze informacje na ten niezwykły temat jakim jest  <i>pływanie</i>. Na samym początku zdefiniuje to dość szeroko przez nas uznawane pojęcie. Otóż <i>pływanie</i>- jest metodą poruszania się po powierzchni wody lub w wodzie, 
+wykorzystywana przez człowieka, zwierzęta i maszyny. Zmojej strony dowiesz się między innymi jakie aspekty zdrowotne ma pływanie, opis i rodzaje stylów pływackich, 
+co nieco o kursie pływackim oraz wiele innych ciekawostek na temat tej wspaniałej dyscypliny sportowej.</p>
+</body>
+
+</html>

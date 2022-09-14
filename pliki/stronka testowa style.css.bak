@@ -1,0 +1,18 @@
+a.link1:hover{
+	text-decoration: underline;
+
+}
+a.link1:link{
+	text-decoration: none;
+	color:steelblue
+}
+a.link1:visited{
+	text-decoration: none;
+	color:steelblue
+}
+
+.button1{
+	border-radius:20px;
+	
+}
+

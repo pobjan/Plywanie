@@ -1,0 +1,41 @@
+
+.body1{background-color:silver;}
+
+.div_1a{border:5px solid steelblue;width:200px;float:left;background: steelblue;min-height:650px}
+.div_1b{border:0px solid black;width:0px;float:left;background:#fff;min-height:650px}
+.div_1c{border:0px solid black;width:20px;;float:left;background: class="body";min-height:650px}
+
+.span_1a{color:white}
+.span_1b{color:blue}
+
+a.linki1:link{color:white}
+a.linki1:visited{color:white}
+a.linki1:active{color:silver}
+a.linki1:hover{color:silver}
+
+.body2{background:skyblue}
+.kolorek2{color:blue}
+.kolorek2a{color:DarkSlateBlue}
+
+.body3{background:MediumTurquoise}
+
+.kolorek3{color:blue}
+.kolorek3a{color:DarkSlateBlue}
+
+.div_3a{border:0px solid MediumTurquoise;width:100px;;float:left;background:MediumTurquoise;min-height:650px;}
+.div_3b{border:0px solid MediumTurquoise;width:0px;;float:left;background:MediumTurquoise;min-height:650px;}
+.div_3c{border:0px solid blue;width:100px;;float:right;background:MediumTurquoise;min-height:650px;}
+.div_3d{border:0px solid MediumTurquoise;width:0px;;float:right;background:MediumTurquoise;min-height:650px;}
+.div_3e{border:0px solid black;width:0px;float:left;background:#fff;min-height:650px}
+
+.kolorek4{color:blue}
+.kolorek4a{color:DarkSlateBlue}
+
+.body5{background:MediumTurquoise}
+.kolorek5{color:blue}
+.kolorek5a{color:DarkSlateBlue}
+	{
+.span_6{color:white}
+.span_6a{background:teal}
+.span_6b{background:silver}
+.span_6c{background: blue}

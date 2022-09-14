@@ -1,0 +1,18 @@
+a.link1:hover{
+	color:silver;
+}
+a.link1:link{
+	color:steelblue
+}
+a.link1:visited{
+	color:steelblue
+}
+
+.button1{
+	border-radius:20px;
+	
+}
+.button1:hover{
+	
+}
+
